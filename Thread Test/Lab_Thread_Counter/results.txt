@@ -1,0 +1,252 @@
+===== TC1  N=1 K=1000  SAFE =====
+Expected: 1000
+Static Count: 1000
+Non-static Total: 1000
+Difference: 0
+Percentage: 0.0%
+===== TC1  N=1 K=1000  UNSAFE run 1 =====
+Expected: 1000
+Static Count: 1000
+Non-static Total: 1000
+Difference: 0
+Percentage: 0.0%
+===== TC1  N=1 K=1000  UNSAFE run 2 =====
+Expected: 1000
+Static Count: 1000
+Non-static Total: 1000
+Difference: 0
+Percentage: 0.0%
+===== TC1  N=1 K=1000  UNSAFE run 3 =====
+Expected: 1000
+Static Count: 1000
+Non-static Total: 1000
+Difference: 0
+Percentage: 0.0%
+===== TC1  N=1 K=1000  UNSAFE run 4 =====
+Expected: 1000
+Static Count: 1000
+Non-static Total: 1000
+Difference: 0
+Percentage: 0.0%
+===== TC1  N=1 K=1000  UNSAFE run 5 =====
+Expected: 1000
+Static Count: 1000
+Non-static Total: 1000
+Difference: 0
+Percentage: 0.0%
+===== TC2  N=2 K=10000  SAFE =====
+Expected: 20000
+Static Count: 20000
+Non-static Total: 20000
+Difference: 0
+Percentage: 0.0%
+===== TC2  N=2 K=10000  UNSAFE run 1 =====
+Expected: 20000
+Static Count: 11497
+Non-static Total: 20000
+Difference: 8503
+Percentage: 42.515%
+===== TC2  N=2 K=10000  UNSAFE run 2 =====
+Expected: 20000
+Static Count: 15724
+Non-static Total: 20000
+Difference: 4276
+Percentage: 21.38%
+===== TC2  N=2 K=10000  UNSAFE run 3 =====
+Expected: 20000
+Static Count: 16721
+Non-static Total: 20000
+Difference: 3279
+Percentage: 16.395%
+===== TC2  N=2 K=10000  UNSAFE run 4 =====
+Expected: 20000
+Static Count: 13577
+Non-static Total: 20000
+Difference: 6423
+Percentage: 32.115%
+===== TC2  N=2 K=10000  UNSAFE run 5 =====
+Expected: 20000
+Static Count: 15038
+Non-static Total: 20000
+Difference: 4962
+Percentage: 24.81%
+===== TC3  N=5 K=10000  SAFE =====
+Expected: 50000
+Static Count: 50000
+Non-static Total: 50000
+Difference: 0
+Percentage: 0.0%
+===== TC3  N=5 K=10000  UNSAFE run 1 =====
+Expected: 50000
+Static Count: 16638
+Non-static Total: 50000
+Difference: 33362
+Percentage: 66.724%
+===== TC3  N=5 K=10000  UNSAFE run 2 =====
+Expected: 50000
+Static Count: 14837
+Non-static Total: 50000
+Difference: 35163
+Percentage: 70.326%
+===== TC3  N=5 K=10000  UNSAFE run 3 =====
+Expected: 50000
+Static Count: 22034
+Non-static Total: 50000
+Difference: 27966
+Percentage: 55.932%
+===== TC3  N=5 K=10000  UNSAFE run 4 =====
+Expected: 50000
+Static Count: 21427
+Non-static Total: 50000
+Difference: 28573
+Percentage: 57.145999999999994%
+===== TC3  N=5 K=10000  UNSAFE run 5 =====
+Expected: 50000
+Static Count: 17116
+Non-static Total: 50000
+Difference: 32884
+Percentage: 65.768%
+===== TC4  N=10 K=50000  SAFE =====
+Expected: 500000
+Static Count: 500000
+Non-static Total: 500000
+Difference: 0
+Percentage: 0.0%
+===== TC4  N=10 K=50000  UNSAFE run 1 =====
+Expected: 500000
+Static Count: 69095
+Non-static Total: 500000
+Difference: 430905
+Percentage: 86.181%
+===== TC4  N=10 K=50000  UNSAFE run 2 =====
+Expected: 500000
+Static Count: 64900
+Non-static Total: 500000
+Difference: 435100
+Percentage: 87.02%
+===== TC4  N=10 K=50000  UNSAFE run 3 =====
+Expected: 500000
+Static Count: 71106
+Non-static Total: 500000
+Difference: 428894
+Percentage: 85.7788%
+===== TC4  N=10 K=50000  UNSAFE run 4 =====
+Expected: 500000
+Static Count: 66532
+Non-static Total: 500000
+Difference: 433468
+Percentage: 86.6936%
+===== TC4  N=10 K=50000  UNSAFE run 5 =====
+Expected: 500000
+Static Count: 74626
+Non-static Total: 500000
+Difference: 425374
+Percentage: 85.0748%
+===== TC5  N=20 K=50000  SAFE =====
+Expected: 1000000
+Static Count: 1000000
+Non-static Total: 1000000
+Difference: 0
+Percentage: 0.0%
+===== TC5  N=20 K=50000  UNSAFE run 1 =====
+Expected: 1000000
+Static Count: 95459
+Non-static Total: 1000000
+Difference: 904541
+Percentage: 90.45410000000001%
+===== TC5  N=20 K=50000  UNSAFE run 2 =====
+Expected: 1000000
+Static Count: 81309
+Non-static Total: 1000000
+Difference: 918691
+Percentage: 91.8691%
+===== TC5  N=20 K=50000  UNSAFE run 3 =====
+Expected: 1000000
+Static Count: 96790
+Non-static Total: 1000000
+Difference: 903210
+Percentage: 90.321%
+===== TC5  N=20 K=50000  UNSAFE run 4 =====
+Expected: 1000000
+Static Count: 99461
+Non-static Total: 1000000
+Difference: 900539
+Percentage: 90.0539%
+===== TC5  N=20 K=50000  UNSAFE run 5 =====
+Expected: 1000000
+Static Count: 94503
+Non-static Total: 1000000
+Difference: 905497
+Percentage: 90.5497%
+===== TC6  N=50 K=50000  SAFE =====
+Expected: 2500000
+Static Count: 2500000
+Non-static Total: 2500000
+Difference: 0
+Percentage: 0.0%
+===== TC6  N=50 K=50000  UNSAFE run 1 =====
+Expected: 2500000
+Static Count: 319459
+Non-static Total: 2500000
+Difference: 2180541
+Percentage: 87.22164%
+===== TC6  N=50 K=50000  UNSAFE run 2 =====
+Expected: 2500000
+Static Count: 389647
+Non-static Total: 2500000
+Difference: 2110353
+Percentage: 84.41412%
+===== TC6  N=50 K=50000  UNSAFE run 3 =====
+Expected: 2500000
+Static Count: 612438
+Non-static Total: 2500000
+Difference: 1887562
+Percentage: 75.50248%
+===== TC6  N=50 K=50000  UNSAFE run 4 =====
+Expected: 2500000
+Static Count: 516359
+Non-static Total: 2500000
+Difference: 1983641
+Percentage: 79.34563999999999%
+===== TC6  N=50 K=50000  UNSAFE run 5 =====
+Expected: 2500000
+Static Count: 510527
+Non-static Total: 2500000
+Difference: 1989473
+Percentage: 79.57892%
+===== TC7  N=100 K=50000  SAFE =====
+Expected: 5000000
+Static Count: 5000000
+Non-static Total: 5000000
+Difference: 0
+Percentage: 0.0%
+===== TC7  N=100 K=50000  UNSAFE run 1 =====
+Expected: 5000000
+Static Count: 2525350
+Non-static Total: 5000000
+Difference: 2474650
+Percentage: 49.492999999999995%
+===== TC7  N=100 K=50000  UNSAFE run 2 =====
+Expected: 5000000
+Static Count: 2708842
+Non-static Total: 5000000
+Difference: 2291158
+Percentage: 45.82316%
+===== TC7  N=100 K=50000  UNSAFE run 3 =====
+Expected: 5000000
+Static Count: 2129434
+Non-static Total: 5000000
+Difference: 2870566
+Percentage: 57.411319999999996%
+===== TC7  N=100 K=50000  UNSAFE run 4 =====
+Expected: 5000000
+Static Count: 2952205
+Non-static Total: 5000000
+Difference: 2047795
+Percentage: 40.9559%
+===== TC7  N=100 K=50000  UNSAFE run 5 =====
+Expected: 5000000
+Static Count: 2115796
+Non-static Total: 5000000
+Difference: 2884204
+Percentage: 57.68408%
