@@ -1,0 +1,93 @@
+Mawlana Bhashani Science and Technology University (MBSTU)
+
+Department of Information and Communication Technology (ICT)
+Software Design — Assessment Question Paper
+Student Information
+Field 	Information
+Name 	Imran Hossen
+Student ID 	IT-24063
+Course Title 	Software Engineering Project Management
+Course Code 	ICT_3107
+Assessment Topic 	Software Design
+Total Marks 	40
+Duration 	1 Hour
+1. Course Outcomes (COs)
+
+Upon successful completion of this assessment, students should be able to:
+
+    CO1: Describe the fundamental concepts and principles of software design.
+    CO2: Explain the importance of software design principles in developing maintainable software.
+    CO3: Analyze basic software design concepts, including coupling, cohesion, abstraction, and encapsulation.
+    CO4: Explain common software architectural styles and design patterns.
+    CO5: Apply fundamental software design principles to simple software problems.
+
+2. Assessment Questions
+Section A: Knowledge (C1 — Remember)
+
+Total Marks: 10
+
+Q1. Answer the following questions briefly. (5 × 2 = 10)
+
+a) Define software design. (2)
+
+b) What is modularity in software design? (2)
+
+c) Define coupling. (2)
+
+d) Define cohesion. (2)
+
+e) What is a software design pattern? (2)
+Section B: Understanding (C2 — Understand)
+
+Total Marks: 15
+
+Q2. Answer the following questions. (2 × 5 = 10)
+
+a) Differentiate between coupling and cohesion in software design. (5)
+
+b) Explain abstraction and encapsulation with suitable examples. (5)
+
+Q3. What is the Model-View-Controller (MVC) architectural pattern? Explain the responsibilities of the Model, View, and Controller. (5)
+Section C: Application (C3 — Apply)
+
+Total Marks: 15
+
+Q4. Answer the following questions. (2 × 5 = 10)
+
+a) A Student Management System has separate modules for student registration, attendance management, and result processing. Explain how modularity improves the maintainability of this system. (5)
+
+b) A software class performs several unrelated tasks. Explain how you would redesign it to improve its cohesion. (5)
+
+Q5. You are designing a simple Online Shopping System. Identify three essential software modules and briefly describe the responsibility of each module. (5)
+3. Course Outcome (CO) Mapping
+
+The following matrix shows the proposed mapping between assessment questions and Course Outcomes.
+Question 	CO1 	CO2 	CO3 	CO4 	CO5 	Marks
+Q1 	✓ 		✓ 	✓ 		10
+Q2 			✓ 			10
+Q3 				✓ 		5
+Q4 		✓ 	✓ 		✓ 	10
+Q5 		✓ 			✓ 	5
+Total 						40
+4. Bloom's Taxonomy Alignment
+Section 	Cognitive Level 	Bloom's Taxonomy Level 	Marks
+A 	Knowledge 	C1 — Remember 	10
+B 	Understanding 	C2 — Understand 	15
+C 	Application 	C3 — Apply 	15
+Total 			40
+5. Outcome-Based Education (OBE) and BNQF Consideration
+
+This assessment is designed using an outcome-based approach:
+
+    Outcome-oriented assessment: Questions are intended to evaluate the stated Course Outcomes.
+    Cognitive progression: Questions progress from remembering concepts to understanding and applying software design principles.
+    Measurable assessment: Each question has a defined mark allocation.
+    CO mapping: Each question is mapped to the relevant Course Outcomes.
+    BNQF consideration: The assessment addresses knowledge, understanding, and application.
+
+6. Marks Distribution
+Section 	Assessment Level 	Marks
+Section A 	Knowledge 	10
+Section B 	Understanding 	15
+Section C 	Application 	15
+Grand Total 		40
