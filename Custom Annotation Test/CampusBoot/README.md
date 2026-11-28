@@ -461,21 +461,6 @@ The three written answers are provided in [`answers.txt`](answers.txt):
 
 1. What happens if runtime retention is omitted?
 2. How do CampusBoot annotations relate to Spring annotations?
-3. Why is `setAccessible(true)` powerful and risky?
+3. Why is `setAccessible(true)` powerful and risk
 
-## 15. Submission
-
-**Suggested ZIP filename:**
-
-```text
-IT24063_CampusBoot.zip
-```
-
-The ZIP contains all Java source files, the reflection answers, README documentation, `.gitignore`, and the MIT License.
-
----
-
-<p align="center">
-  <strong>CampusBoot — Learning how annotation-driven frameworks work under the hood.</strong><br>
-  <sub>Developed by Imran Hossen | IT24063 | MBSTU</sub>
 </p>
