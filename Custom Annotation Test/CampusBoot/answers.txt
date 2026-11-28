@@ -1,0 +1,12 @@
+CampusBoot - Reflection Questions
+Student Name: Imran Hossen
+Student ID: IT24063
+
+1. What would happen to your framework if you forgot @Retention(RetentionPolicy.RUNTIME)? Why?
+If runtime retention were omitted, the annotation would use the default CLASS retention, meaning it would be stored in the compiled class file but not available through runtime reflection. CampusBoot would therefore be unable to discover annotations such as @Component, @Value, @Range, and @Route while the program is running. Component scanning, injection, validation, and routing would consequently fail to work as designed.
+
+2. Map each CampusBoot annotation to its Spring Boot equivalent and name one thing real Spring does that your mini-framework does not.
+@Component maps directly to Spring's @Component, @Value maps to Spring's @Value, @Range is conceptually similar to validation constraints such as @Min/@Max (often used with Jakarta Bean Validation), and @Route is conceptually similar to Spring MVC's @GetMapping (or @RequestMapping). Real Spring provides much more, including package/classpath scanning, dependency injection across object graphs, lifecycle callbacks, scopes, configuration profiles, and an embedded web server. CampusBoot implements only a small educational subset and does not start an actual HTTP server.
+
+3. Why is setAccessible(true) both powerful and risky?
+setAccessible(true) allows reflection code to access private or otherwise non-public members that normal Java access rules would restrict. This is powerful because CampusBoot can inject private fields and invoke non-public methods without changing the application classes. It is risky because it bypasses encapsulation, can expose internal state, and may be restricted by Java's module system or security policies.
